@@ -22,5 +22,5 @@ print(students)
 print(students["name"])
 
 # this is a set
-student_ids = {1,2,3,4,"John", True}
+student_ids = {6,2,3,4,"John", True} # If we include 1 in this set, True will not be printed. Similar to false
 print(student_ids)
